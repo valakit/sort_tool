@@ -1,0 +1,3 @@
+/home/h/Desktop/sort_tool/build/CMakeFiles/main.dir
+/home/h/Desktop/sort_tool/build/CMakeFiles/edit_cache.dir
+/home/h/Desktop/sort_tool/build/CMakeFiles/rebuild_cache.dir

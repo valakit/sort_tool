@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/h/Desktop/sort_tool/build",
+  "command": "/usr/bin/g++  -I/home/h/Desktop/sort_tool/include -g -o CMakeFiles/main.dir/main.cpp.o -c /home/h/Desktop/sort_tool/main.cpp",
+  "file": "/home/h/Desktop/sort_tool/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/h/Desktop/sort_tool/build",
+  "command": "/usr/bin/g++  -I/home/h/Desktop/sort_tool/include -g -o CMakeFiles/main.dir/src/sort_tool.cpp.o -c /home/h/Desktop/sort_tool/src/sort_tool.cpp",
+  "file": "/home/h/Desktop/sort_tool/src/sort_tool.cpp",
+  "output": "CMakeFiles/main.dir/src/sort_tool.cpp.o"
+}
+]
