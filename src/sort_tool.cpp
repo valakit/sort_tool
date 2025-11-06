@@ -22,7 +22,7 @@ void sort_tool::Sort_Num(int *num, int len) // 小到大
 {
   int temp, temp2;
 
-  for (int i = 0; i < len; i++) {
+  for (int i = 0; i < len; i++) {  //冒泡排序
     for (int j = 0; j < len - i; j++) {
       temp = num[len - i - 1];
       if (num[j] > temp) {
@@ -31,7 +31,7 @@ void sort_tool::Sort_Num(int *num, int len) // 小到大
       }
     }
   }
-  Travese(num, len);
+  Travese(num, len);//遍历数组
 
   return;
 }
