@@ -1,6 +1,6 @@
 #include "sort_tool.hpp"
 
-/**
+/*
     @brief 遍历数组
     @param num 数组
     @param len 数组长度
@@ -11,7 +11,7 @@ void sort_tool::Travese(int *num, int len) {
     std::cout << *(num + i) << std::endl;
 }
 
-/**
+/*
     @brief 排序数组
     @param num 数组
     @param len 数组长度
